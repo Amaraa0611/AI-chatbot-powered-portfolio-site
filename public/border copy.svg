@@ -1,0 +1,9 @@
+<svg height="160" width="160" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="80" cy="80" r="80" fill="none" stroke="#00ff99" stroke-width="2" 
+          stroke-dasharray="5,30,30,25" stroke-linecap="round">
+    <!-- <animate attributeName="stroke-dasharray" 
+             values="5,30,30,25; 10,25,35,20; 15,20,40,15; 10,35,25,30; 5,30,30,25" 
+             dur="6s" 
+             repeatCount="indefinite"/> -->
+  </circle>
+</svg>
